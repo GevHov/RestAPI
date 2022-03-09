@@ -1,0 +1,259 @@
+/* 
+  File.strings
+  PostmanTest
+
+  Created by Gevorg Hovhannisyan on 23.11.21.
+ 
+ url = "https://api.malls.team/api/General/MainPage"
+ 
+ {
+     "bestExchange": null,
+     "adsWithCategories": [
+     {
+         "category": {
+             "id": 2,
+             "name": "Անշարժ գույք"
+         },
+         "ads": [
+         {
+             "id": 28,
+             "state": 2,
+             "name": "test notification",
+             "userID": 100008,
+             "categoryID": 2,
+             "description": "sdf",
+             "image": "https://api.malls.team/Images/RealEstate/69e24a2b-c8e3-4a13-8522-35e11dadd045.jpg",
+             "owner": 0,
+             "isBestPrice": false
+         },
+         {
+             "id": 25,
+             "state": 2,
+             "name": "sxsa",
+             "userID": 100001,
+             "categoryID": 2,
+             "description": "czx",
+             "image": "https://api.malls.team/Images/RealEstate/64919005-3a2c-47c6-8cb3-e70943ad766a.jpg",
+             "owner": 0,
+             "isBestPrice": false
+         },
+         {
+             "id": 24,
+             "state": 2,
+             "name": "test notification",
+             "userID": 100001,
+             "categoryID": 2,
+             "description": "asdasd",
+             "image": "https://api.malls.team/Images/RealEstate/2e6a9e7e-02ec-407c-8085-8f8fc8c71840.jpg",
+             "owner": 0,
+             "isBestPrice": false
+         },
+         {
+             "id": 20,
+             "state": 2,
+             "name": "Բնակարան",
+             "userID": 100000,
+             "categoryID": 2,
+             "description": "Բնակարան",
+             "image": "",
+             "owner": 0,
+             "isBestPrice": false
+         },
+         {
+             "id": 21,
+             "state": 2,
+             "name": "Բնակարան",
+             "userID": 100000,
+             "categoryID": 2,
+             "description": "Բնակարան",
+             "image": "",
+             "owner": 0,
+             "isBestPrice": false
+         },
+         {
+             "id": 22,
+             "state": 2,
+             "name": "Բնակարան",
+             "userID": 100000,
+             "categoryID": 2,
+             "description": "Բնակարան",
+             "image": "",
+             "owner": 0,
+             "isBestPrice": false
+         },
+         {
+             "id": 19,
+             "state": 2,
+             "name": "Բնակարան",
+             "userID": 100000,
+             "categoryID": 2,
+             "description": "Բնակարան",
+             "image": "",
+             "owner": 0,
+             "isBestPrice": false
+         },
+         {
+             "id": 18,
+             "state": 2,
+             "name": "3 Բնակարան Հանրապետության հրապարակի հարևանությամբ",
+             "userID": 100000,
+             "categoryID": 2,
+             "description": "",
+             "image": "https://api.malls.team/Images/RealEstate/a3605f4b-2936-416f-b671-d704ef274b8b.jpg",
+             "owner": 0,
+             "isBestPrice": false
+         }
+         ]
+     },
+     {
+         "category": {
+             "id": 3,
+             "name": "Տրանսպորտ"
+         },
+         "ads": [
+         {
+             "id": 30,
+             "state": 2,
+             "name": "BMW M5 F10 ",
+             "userID": 100000,
+             "categoryID": 3,
+             "description": "Թույն վիճակ։\n\nՀարցերի դեպքում չզանգել",
+             "image": "https://api.malls.team/Images/Vehicle/b4e6c388-a02c-471f-9d61-cf3b006963aa.jpg",
+             "owner": 0,
+             "isBestPrice": false
+         },
+         {
+             "id": 8,
+             "state": 0,
+             "name": "",
+             "userID": 100004,
+             "categoryID": 3,
+             "description": "",
+             "image": "",
+             "owner": 1,
+             "isBestPrice": false
+         }
+         ]
+     },
+     {
+         "category": {
+             "id": 4,
+             "name": "Էլեկտրոնիկա"
+         },
+         "ads": [
+         {
+             "id": 10,
+             "state": 0,
+             "name": "F",
+             "userID": 100004,
+             "categoryID": 4,
+             "description": "HTYDYHG",
+             "image": "https://api.malls.team/Images/Electronics/6a158141-6159-4fbf-9a3c-88c4c6b807b9.jpg",
+             "owner": 1,
+             "isBestPrice": false
+         },
+         {
+             "id": 4,
+             "state": 0,
+             "name": "noyt",
+             "userID": 100004,
+             "categoryID": 4,
+             "description": "notebook",
+             "image": "",
+             "owner": 1,
+             "isBestPrice": false
+         }
+         ]
+     },
+     {
+         "category": {
+             "id": 6,
+             "name": "Տնտեսական ապրանքներ"
+         },
+         "ads": [
+         {
+             "id": 15,
+             "state": 0,
+             "name": "asdsad",
+             "userID": 100004,
+             "categoryID": 6,
+             "description": "dasda",
+             "image": "https://api.malls.team/Images/HouseholdGoods/846e93e8-f20d-4cd0-9c56-abcdf9f35ac8.jpg",
+             "owner": 0,
+             "isBestPrice": false
+         },
+         {
+             "id": 14,
+             "state": 0,
+             "name": "asaa",
+             "userID": 100004,
+             "categoryID": 6,
+             "description": "sasa",
+             "image": "https://api.malls.team/Images/HouseholdGoods/b4561b5a-f18e-43dd-8718-712fe5bbc09f.jpg",
+             "owner": 1,
+             "isBestPrice": false
+         }
+         ]
+     },
+     {
+         "category": {
+             "id": 10,
+             "name": "Շինարարություն"
+         },
+         "ads": [
+         {
+             "id": 9,
+             "state": 0,
+             "name": "gg",
+             "userID": 100004,
+             "categoryID": 10,
+             "description": "ggg",
+             "image": "https://api.malls.team/Images/Construction/9037f8c0-ee7f-408f-bd3d-310a593f1859.jpg",
+             "owner": 1,
+             "isBestPrice": false
+         }
+         ]
+     },
+     {
+         "category": {
+             "id": 17,
+             "name": "Կենդանիներ եւ բույսեր"
+         },
+         "ads": [
+         {
+             "id": 55,
+             "state": 2,
+             "name": "ալենի պահածո,ալեն,աժ",
+             "userID": 100008,
+             "categoryID": 17,
+             "description": "ալենի պահածո,ալեն,աժ,բտ",
+             "image": "https://api.malls.team/Images/PetsAndPlants/7541816c-9d58-4d25-a67d-eebc1f1718dc.jpg",
+             "owner": 1,
+             "isBestPrice": false
+         }
+         ]
+     },
+     {
+         "category": {
+             "id": 24,
+             "name": "Տարադրամի փոխանակում"
+         },
+         "ads": [
+         {
+             "id": 13,
+             "state": 0,
+             "name": "Exchange",
+             "userID": 100001,
+             "categoryID": 24,
+             "description": "best",
+             "image": "",
+             "owner": 0,
+             "isBestPrice": false
+         }
+         ]
+     }
+     ]
+ }
+
+  
+*/
